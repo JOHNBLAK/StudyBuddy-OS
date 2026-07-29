@@ -113,4 +113,4 @@ StudyBuddy OS does not use a backend database or external API. All progress, not
 
 ## License
 
-This project is open source. Add your preferred license (MIT, GPL, etc.) here.
+This project is open source.
